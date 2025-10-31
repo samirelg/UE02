@@ -1,4 +1,6 @@
-import java.util.Scanner; // must be at the top, before the class
+package p1;
+
+import java.util.Scanner; 
 
 public class p1_main {
     public static void main(String[] args) {
